@@ -21,6 +21,7 @@ who_i_am = ['Student','Coder','Addict','Hacker','Noobie']
 age = 17
 team = [MillerSec,CyberXploitTeam]
 link = [https://fb.me/miller742]
+school = [Huazhong University of science and technology]
 ```
 ### 🌱 I’m currently learning..
 * 👑 C Programming Langauge
