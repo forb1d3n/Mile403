@@ -29,7 +29,7 @@ school = [Huazhong University of science and technology]
 
 
 # 🧐 Find Me
-    📧 Email: mile403@protonmail.com
+    📧 Email: forbidden.mil3z@gmail.com
 
 - ⚡ Fun fact: im a noob
 
