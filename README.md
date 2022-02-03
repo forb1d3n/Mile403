@@ -16,8 +16,8 @@
 <br>
 ### About Me🧑🏽‍💻
 ```python
-name = "George_Miller"
-who_i_am = ['Student','Coder','Addict','Hacker','Noobie']
+name = "forbidden_mil3z"
+who_i_am = ['Student','Coder','Addict','Hacker','Rapper']
 age = 17
 team = [MillerSec,CyberXploitTeam]
 link = [https://fb.me/miller742]
